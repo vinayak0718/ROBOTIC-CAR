@@ -51,7 +51,7 @@ This project demonstrates a smart robotic car capable of navigating its environm
 
 ## 🔌 Circuit Diagram
 <p align="center">
-  <img src="images/" width="500"/>
+  <img src="images/ChatGPT Image Apr 29, 2026, 07_04_58 PM.png" width="500"/>
 </p>
 ---
 
