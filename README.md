@@ -69,8 +69,9 @@ The code for controlling sensors and motors is available in the `/code` director
 ---
 
 ## 📷 Project Image
-(Add your bot image in `/images` folder and link here)
-
+<p align="center">
+  <img src="" width="500"/>
+</p>
 ---
 
 ## 🚀 Applications
