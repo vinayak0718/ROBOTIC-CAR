@@ -56,8 +56,9 @@ This project demonstrates a smart robotic car capable of navigating its environm
 ---
 
 ## 💻 Code
-The code for controlling sensors and motors is available in the `/code` directory.
-
+<p align="center">
+  <img src="WhatsApp Image 2026-04-29 at 7.50.54 PM.jpeg" width="500"/>
+</p>
 ---
 
 ## ▶️ How to Run
