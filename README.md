@@ -50,7 +50,7 @@ This project demonstrates a smart robotic car capable of navigating its environm
 ---
 
 ## 🔌 Circuit Diagram
-![OBSTACLE DETECTION BOT](ChatGPT Image Apr 29, 2026, 07_04_58 PM.png)
+![OBSTACLE DETECTION BOT](image/ChatGPT Image Apr 29, 2026, 07_04_58 PM.png)
 
 ---
 
